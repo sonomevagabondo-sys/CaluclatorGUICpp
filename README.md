@@ -24,3 +24,4 @@ Heres the mainwindows.UI
 
 <img width="372" height="518" alt="image" src="https://github.com/user-attachments/assets/a897b012-0848-4eb6-b37b-346244a8bd20" />
 
+<img width="364" height="546" alt="image" src="https://github.com/user-attachments/assets/12ed888c-046f-4927-9137-bbe666f19bba" />
