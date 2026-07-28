@@ -1,0 +1,13 @@
+Hi guys, im new to programming and in the last month ive been trying to learn C++, i've manly used learncpp.com to learn and for now its alright!
+Previously i had experince building simple GUI Form based windows application in Visual Basic, and all i did was just putting buttons and making them do some stuff i saw on YouTube tutorials...
+About a month ago i really decided to ACCUALLY learn how to code, after i did some practice and some small programs on Java, i decided to start using C++, since its one of the lower languages
+that are accually OOP, so i could still use classes and all the features while knowing i was building a solid foundation thanks to the fact that you have to do almost everything yourself in c++.
+After going trough the basics i started working on some projeect like ExpensesTrackers, Terminal quiz games, and some more other projects, until i really wanted to make Accual usable programs wit GUI.
+So at first i didnt think it was going to be THAT hard, since i previusly did some GUI programs on python with Tkinter and as i said Visual Basic, till i accually started searching and found NOTHING...
+After a bit i found QT a Cross-Platform framework to make C++ app with UI, so i decided to give it a try, till i realized it was almost the same as the Form in Visual Basic, at first i didnt want to have
+"everything already done for me" with a form, so i didnt use it and after a few days decided to try out Raylib, where i just imported  the header and started to make some simple games form scratch.
+Fast forward to Today, where i decide to give another chance at QT and everything changed...I accually tried to make an app with it (a calculator) to accually try and see if it was any good.
+Honestly at first i didnt want to do it since i had to use pointers, something that i still havent learn about, until i just started using this "->" instead of "." the normal dot, so i just pretended it was a dot.
+And honestly... i was surprised, i accually managed to make a error proof calculator with GUI and all the funcions working, i know its just a calculator, but its a big step for me...
+And honestly i just love how to SyleSheet accually turned out...
+Hope you enjoyed reading this and thankS :D!
