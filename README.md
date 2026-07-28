@@ -20,5 +20,7 @@ I also really love how the stylesheet turned out.
 
 Hope you enjoyed reading this, and thanks! :D
 
+Heres the mainwindows.UI
+
 <img width="372" height="518" alt="image" src="https://github.com/user-attachments/assets/a897b012-0848-4eb6-b37b-346244a8bd20" />
 
