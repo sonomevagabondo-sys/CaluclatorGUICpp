@@ -1,4 +1,8 @@
-About a month ago, I really decided to **actually** learn how to code. I've mainly been using **learncpp.com** to learn C++, and so far it's been great!
+<a name="readme-top"></a>
+
+## About The Project
+
+About a month ago, I really decided to **actually** learn how to code. I've mainly been using [learncpp.com](https://www.learncpp.com/) to learn C++, and so far it's been great!
 
 Previously, I had experience building simple GUI, form-based Windows applications in Visual Basic. All I really did was drag buttons onto a form and make them do stuff by following YouTube tutorials.
 
@@ -14,15 +18,37 @@ Fast forward to today, and I decided to give Qt another chance. Everything chang
 
 Honestly, at first I didn't want to do it because I had to use pointers, which I still haven't learned about. I just started using `->` instead of `.` and pretended it was basically the same thing.
 
-And honestly... I was surprised. I actually managed to make an error-proof calculator with a GUI, and all the functions worked. I know it's just a calculator, but it's a big step for me.
+And honestly... I was surprised. I actually managed to make an error-proof calculator with a GUI, and all the functions worked. I know it's just a calculator, but it's a big step for me! I also really love how the stylesheet turned out.
 
-I also really love how the stylesheet turned out.
+### Screenshots
 
-Hope you enjoyed reading this, if you have any suggetions or want to ask anything go ahead!
-Thanks! :D
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a897b012-0848-4eb6-b37b-346244a8bd20" width="350" alt="MainWindow UI" />
+  <img src="https://github.com/user-attachments/assets/12ed888c-046f-4927-9137-bbe666f19bba" width="350" alt="Calculator App" />
+</p>
 
-Heres the mainwindows.UI
+Hope you enjoyed reading this, if you have any suggestions or want to ask anything go ahead!
 
-<img width="372" height="518" alt="image" src="https://github.com/user-attachments/assets/a897b012-0848-4eb6-b37b-346244a8bd20" />
+---
 
-<img width="364" height="546" alt="image" src="https://github.com/user-attachments/assets/12ed888c-046f-4927-9137-bbe666f19bba" />
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Contact
+
+Contact me at: - sonomevagabondo@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Acknowledgments
+
+* [Qt Library](https://www.qt.io/): Thanks to them for making this possible!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
