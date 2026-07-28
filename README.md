@@ -1,13 +1,21 @@
-Hi guys, im new to programming and in the last month ive been trying to learn C++, i've manly used learncpp.com to learn and for now its alright!
-Previously i had experince building simple GUI Form based windows application in Visual Basic, and all i did was just putting buttons and making them do some stuff i saw on YouTube tutorials...
-About a month ago i really decided to ACCUALLY learn how to code, after i did some practice and some small programs on Java, i decided to start using C++, since its one of the lower languages
-that are accually OOP, so i could still use classes and all the features while knowing i was building a solid foundation thanks to the fact that you have to do almost everything yourself in c++.
-After going trough the basics i started working on some projeect like ExpensesTrackers, Terminal quiz games, and some more other projects, until i really wanted to make Accual usable programs wit GUI.
-So at first i didnt think it was going to be THAT hard, since i previusly did some GUI programs on python with Tkinter and as i said Visual Basic, till i accually started searching and found NOTHING...
-After a bit i found QT a Cross-Platform framework to make C++ app with UI, so i decided to give it a try, till i realized it was almost the same as the Form in Visual Basic, at first i didnt want to have
-"everything already done for me" with a form, so i didnt use it and after a few days decided to try out Raylib, where i just imported  the header and started to make some simple games form scratch.
-Fast forward to Today, where i decide to give another chance at QT and everything changed...I accually tried to make an app with it (a calculator) to accually try and see if it was any good.
-Honestly at first i didnt want to do it since i had to use pointers, something that i still havent learn about, until i just started using this "->" instead of "." the normal dot, so i just pretended it was a dot.
-And honestly... i was surprised, i accually managed to make a error proof calculator with GUI and all the funcions working, i know its just a calculator, but its a big step for me...
-And honestly i just love how to SyleSheet accually turned out...
-Hope you enjoyed reading this and thankS :D!
+About a month ago, I really decided to **actually** learn how to code. I've mainly been using **learncpp.com** to learn C++, and so far it's been great!
+
+Previously, I had experience building simple GUI, form-based Windows applications in Visual Basic. All I really did was drag buttons onto a form and make them do stuff by following YouTube tutorials.
+
+After doing some practice and writing a few small programs in Java, I decided to start learning C++. Since it's a lower-level language that still supports OOP, I could use classes and all the other features while building a solid foundation thanks to the fact that you have to do almost everything yourself in C++.
+
+After going through the basics, I started working on projects like an expense tracker, terminal quiz games, and a few other small programs. Eventually, I wanted to make actual usable applications with a GUI.
+
+At first, I didn't think it was going to be **that** hard since I had previously made GUI programs in Python with Tkinter and, as I mentioned, Visual Basic. Then I actually started searching and found... almost nothing.
+
+After a bit of searching, I found **Qt**, a cross-platform framework for building C++ applications with a GUI, so I decided to give it a try. At first, though, it felt almost the same as Visual Basic's form designer. I didn't want to have "everything already done for me," so I avoided using it. A few days later, I decided to try **raylib** instead, where I just imported the header and started making some simple games from scratch.
+
+Fast forward to today, and I decided to give Qt another chance. Everything changed. I actually tried making a real application with it—a calculator—to see if it was any good.
+
+Honestly, at first I didn't want to do it because I had to use pointers, which I still haven't learned about. I just started using `->` instead of `.` and pretended it was basically the same thing.
+
+And honestly... I was surprised. I actually managed to make an error-proof calculator with a GUI, and all the functions worked. I know it's just a calculator, but it's a big step for me.
+
+I also really love how the stylesheet turned out.
+
+Hope you enjoyed reading this, and thanks! :D
