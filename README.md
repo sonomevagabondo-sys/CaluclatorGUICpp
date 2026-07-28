@@ -18,7 +18,8 @@ And honestly... I was surprised. I actually managed to make an error-proof calcu
 
 I also really love how the stylesheet turned out.
 
-Hope you enjoyed reading this, and thanks! :D
+Hope you enjoyed reading this, if you have any suggetions or want to ask anything go ahead!
+Thanks! :D
 
 Heres the mainwindows.UI
 
