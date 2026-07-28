@@ -1,0 +1,94 @@
+/* Sfondo della finestra */
+QWidget {
+    background-color: #202020;
+    color: #ffffff;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Display del display/input */
+QLineEdit {
+    background-color: #202020;
+    color: #ffffff;
+    border: none;
+    font-size: 32px;
+    padding: 10px;
+}
+
+/* Tutti i pulsanti (Stile Base) */
+QPushButton {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border: 1px solid #3b3b3b;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Effetto al passaggio del mouse (Numeri e tasti generici) */
+QPushButton:hover {
+    background-color: #3b3b3b;
+    border-color: #4a4a4a;
+}
+
+/* Effetto al click (Numeri e tasti generici) */
+QPushButton:pressed {
+    background-color: #1f1f1f;
+    border-color: #2d2d2d;
+    color: #cccccc;
+}
+
+/* ---------------- OPERATORI (+, -, X, /) ---------------- */
+QPushButton[text="/"], QPushButton[text="X"], 
+QPushButton[text="-"], QPushButton[text="+"] {
+    background-color: #383838;
+    border-color: #454545;
+}
+
+QPushButton[text="/"]:hover, QPushButton[text="X"]:hover, 
+QPushButton[text="-"]:hover, QPushButton[text="+"]:hover {
+    background-color: #454545;
+    border-color: #555555;
+}
+
+QPushButton[text="/"]:pressed, QPushButton[text="X"]:pressed, 
+QPushButton[text="-"]:pressed, QPushButton[text="+"]:pressed {
+    background-color: #2a2a2a;
+    border-color: #333333;
+}
+
+/* ---------------- TASTO DELETE ---------------- */
+QPushButton[text="Delete"] {
+    background-color: #b5311b;
+    border-color: #c93b23;
+}
+
+QPushButton[text="Delete"]:hover {
+    background-color: #c93b23;
+    border-color: #d94830;
+}
+
+QPushButton[text="Delete"]:pressed {
+    background-color: #8f2413;
+    border-color: #781d0e;
+}
+
+/* ---------------- TASTO UGUALE (=) ---------------- */
+QPushButton[text="="] {
+    background-color: #0078d4;
+    border-color: #1084df;
+}
+
+QPushButton[text="="]:hover {
+    background-color: #106ebe;
+    border-color: #267cc9;
+}
+
+QPushButton[text="="]:pressed {
+    background-color: #005a9e;
+    border-color: #004578;
+}
+
+/* Layout */
+QWidget#centralwidget {
+    padding: 12px;
+}
